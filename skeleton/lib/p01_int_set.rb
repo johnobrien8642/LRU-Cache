@@ -92,8 +92,6 @@ class ResizingIntSet
 
   private
 
-
-
   def num_buckets
     self.store.length
   end
