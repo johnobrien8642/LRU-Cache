@@ -57,3 +57,15 @@ class LRUCache
     nil
   end
 end
+
+
+class DynamicArray
+  def initialize
+    @dyn_arr = []
+  end
+
+
+
+end
+
+
